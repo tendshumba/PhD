@@ -1,0 +1,4 @@
+prod4:=function(u,v)
+return (&+[u[s[1]]*v[s[2]]*y[2] : y in StdProducts| where s is y[1]])*ProjV;   
+/*function returns the projection of the product to V=780.*/
+end function;
