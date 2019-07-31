@@ -1,0 +1,7 @@
+prod2:=function(u,v)
+if u or v not in V then
+  print "error, vector must be in V";
+else
+  return &+[u[Floor(i/1782)+1]*v[x-Floor(i/1782)]*prods1[i]:i in [1..#prods1]];
+end if;
+end function;
